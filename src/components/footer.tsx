@@ -7,7 +7,7 @@ export const Footer = () => (
             <div className="mb-4 md:mb-0">
                 <div className=' flex items-center justify-center gap-x-2'>
                     <Image src="/footerlogo.svg" alt='logo' width={25} height={25} />
-                    <p className=' text-2xl font-bold text-[#FFFFFF]'>HR Solutions</p>
+                    <p className=' text-2xl font-bold text-[#FFFFFF]'>HR </p>
                 </div>
             </div>
             <ul className="flex space-x-6">

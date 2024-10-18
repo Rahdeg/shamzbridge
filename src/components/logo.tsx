@@ -5,7 +5,7 @@ const Logo = () => {
     return (
         <div className=' flex items-center justify-center gap-x-2'>
             <Image src="/logo.svg" alt='logo' width={20} height={20} />
-            <p className=' text-2xl font-bold text-[#007DFC]'>HR Solutions</p>
+            <p className=' text-2xl font-bold text-[#007DFC]'>HR </p>
         </div>
     )
 }
